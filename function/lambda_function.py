@@ -15,8 +15,8 @@ def lambda_handler(event, context):
         return "World"
 
     if event["input"] == "Hi":
-        
-        return "Hi There"
+
+        return "Earth"
 
     else:
 
